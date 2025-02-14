@@ -1,2 +1,2 @@
 # -hummingbird-repo
-for buid-connect-app for buildings and  construction works
+for build-connect-app for buildings and  construction works
